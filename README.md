@@ -1,3 +1,5 @@
+<div style="background-color: #f0f0f0; padding: 20px; border-radius: 10px;">
+
 <h1 align="center">Hi 👋, I'm Adam Miszkiewicz</h1>
 <h3 align="center">A passionate computer programming student,</h3>
 
@@ -9,7 +11,7 @@
 
 - 🌱 I’m currently learning **Unity, PowerBI, REACT**
 
-- 💬 Ask me about **my g**
+- 💬 Ask me about **my game**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
