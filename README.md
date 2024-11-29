@@ -1,4 +1,4 @@
-<div style="background-color: #f0f0f0; padding: 20px; border-radius: 10px;"
+
 
 <h1 align="center">Hi 👋, I'm Adam Miszkiewicz</h1>
 <h3 align="center">A passionate computer programming student,</h3>
@@ -27,4 +27,3 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=adammiszkiewicz&show_icons=true&locale=en" alt="adammiszkiewicz" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=adammiszkiewicz&" alt="adammiszkiewicz" /></p>
->
