@@ -7,7 +7,7 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=adammiszkiewicz" alt="adammiszkiewicz" /></a> </p>
 
-- 🔭 I’m currently working on my first Unity game **(Name TBD)**
+- 🔭 I’m currently working on my first Unity game 'Voracity'
 
 - 🌱 I’m currently learning **Unity, PowerBI, REACT**
 
